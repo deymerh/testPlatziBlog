@@ -32,3 +32,8 @@ body{
 #container h1{
     font-size: 20px;
 }
+#autor
+{
+    background-color: yellowgreen;
+    font-family: cursive;
+}
