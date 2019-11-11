@@ -1,5 +1,6 @@
-Esta es la historia de Deymer Hernandez:
+Deymer Hernandez:
 
+<<<<<<< HEAD
 Tiene 30 años 
 
 Vive en Tierralta - Córdoba
@@ -7,3 +8,6 @@ Vive en Tierralta - Córdoba
 Y.. sueña con Programar Profesionalmente MUY pronto...
 
 Ya empezo a estudiar en platzi para lograrlo
+=======
+Tiene 29 años 
+>>>>>>> otraRama
